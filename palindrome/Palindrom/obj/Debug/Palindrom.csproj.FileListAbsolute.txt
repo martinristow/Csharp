@@ -1,0 +1,15 @@
+C:\Users\gjorg\OneDrive\Desktop\Palindrom\Palindrom\bin\Debug\Palindrom.exe.config
+C:\Users\gjorg\OneDrive\Desktop\Palindrom\Palindrom\bin\Debug\Palindrom.exe
+C:\Users\gjorg\OneDrive\Desktop\Palindrom\Palindrom\bin\Debug\Palindrom.pdb
+C:\Users\gjorg\OneDrive\Desktop\Palindrom\Palindrom\obj\Debug\Palindrom.csproj.AssemblyReference.cache
+C:\Users\gjorg\OneDrive\Desktop\Palindrom\Palindrom\obj\Debug\Palindrom.csproj.SuggestedBindingRedirects.cache
+C:\Users\gjorg\OneDrive\Desktop\Palindrom\Palindrom\obj\Debug\Palindrom.csproj.CoreCompileInputs.cache
+C:\Users\gjorg\OneDrive\Desktop\Palindrom\Palindrom\obj\Debug\Palindrom.exe
+C:\Users\gjorg\OneDrive\Desktop\Palindrom\Palindrom\obj\Debug\Palindrom.pdb
+C:\Users\PC\source\repos\Palindrom\Palindrom\bin\Debug\Palindrom.exe.config
+C:\Users\PC\source\repos\Palindrom\Palindrom\bin\Debug\Palindrom.exe
+C:\Users\PC\source\repos\Palindrom\Palindrom\bin\Debug\Palindrom.pdb
+C:\Users\PC\source\repos\Palindrom\Palindrom\obj\Debug\Palindrom.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Palindrom\Palindrom\obj\Debug\Palindrom.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Palindrom\Palindrom\obj\Debug\Palindrom.exe
+C:\Users\PC\source\repos\Palindrom\Palindrom\obj\Debug\Palindrom.pdb
