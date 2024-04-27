@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\datoteki\datoteki\bin\Debug\datoteki.exe.config
+C:\Users\PC\source\repos\datoteki\datoteki\bin\Debug\datoteki.exe
+C:\Users\PC\source\repos\datoteki\datoteki\bin\Debug\datoteki.pdb
+C:\Users\PC\source\repos\datoteki\datoteki\obj\Debug\datoteki.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\datoteki\datoteki\obj\Debug\datoteki.Form1.resources
+C:\Users\PC\source\repos\datoteki\datoteki\obj\Debug\datoteki.Properties.Resources.resources
+C:\Users\PC\source\repos\datoteki\datoteki\obj\Debug\datoteki.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\datoteki\datoteki\obj\Debug\datoteki.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\datoteki\datoteki\obj\Debug\datoteki.exe
+C:\Users\PC\source\repos\datoteki\datoteki\obj\Debug\datoteki.pdb
