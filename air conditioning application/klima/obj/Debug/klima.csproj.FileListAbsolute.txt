@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\klima\klima\bin\Debug\klima.exe.config
+C:\Users\PC\source\repos\klima\klima\bin\Debug\klima.exe
+C:\Users\PC\source\repos\klima\klima\bin\Debug\klima.pdb
+C:\Users\PC\source\repos\klima\klima\obj\Debug\klima.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\klima\klima\obj\Debug\klima.Form1.resources
+C:\Users\PC\source\repos\klima\klima\obj\Debug\klima.Properties.Resources.resources
+C:\Users\PC\source\repos\klima\klima\obj\Debug\klima.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\klima\klima\obj\Debug\klima.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\klima\klima\obj\Debug\klima.exe
+C:\Users\PC\source\repos\klima\klima\obj\Debug\klima.pdb
