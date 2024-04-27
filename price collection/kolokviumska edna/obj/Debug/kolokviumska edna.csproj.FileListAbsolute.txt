@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\kolokviumska edna\kolokviumska edna\bin\Debug\kolokviumska edna.exe.config
+C:\Users\PC\source\repos\kolokviumska edna\kolokviumska edna\bin\Debug\kolokviumska edna.exe
+C:\Users\PC\source\repos\kolokviumska edna\kolokviumska edna\bin\Debug\kolokviumska edna.pdb
+C:\Users\PC\source\repos\kolokviumska edna\kolokviumska edna\obj\Debug\kolokviumska edna.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\kolokviumska edna\kolokviumska edna\obj\Debug\kolokviumska_edna.Form1.resources
+C:\Users\PC\source\repos\kolokviumska edna\kolokviumska edna\obj\Debug\kolokviumska_edna.Properties.Resources.resources
+C:\Users\PC\source\repos\kolokviumska edna\kolokviumska edna\obj\Debug\kolokviumska edna.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\kolokviumska edna\kolokviumska edna\obj\Debug\kolokviumska edna.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\kolokviumska edna\kolokviumska edna\obj\Debug\kolokviumska edna.exe
+C:\Users\PC\source\repos\kolokviumska edna\kolokviumska edna\obj\Debug\kolokviumska edna.pdb
