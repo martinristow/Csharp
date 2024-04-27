@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\Seminarska_Igra\Seminarska_Igra\bin\Debug\Seminarska_Igra.exe.config
+C:\Users\PC\source\repos\Seminarska_Igra\Seminarska_Igra\bin\Debug\Seminarska_Igra.exe
+C:\Users\PC\source\repos\Seminarska_Igra\Seminarska_Igra\bin\Debug\Seminarska_Igra.pdb
+C:\Users\PC\source\repos\Seminarska_Igra\Seminarska_Igra\obj\Debug\Seminarska_Igra.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Seminarska_Igra\Seminarska_Igra\obj\Debug\Seminarska_Igra.Form1.resources
+C:\Users\PC\source\repos\Seminarska_Igra\Seminarska_Igra\obj\Debug\Seminarska_Igra.Properties.Resources.resources
+C:\Users\PC\source\repos\Seminarska_Igra\Seminarska_Igra\obj\Debug\Seminarska_Igra.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Seminarska_Igra\Seminarska_Igra\obj\Debug\Seminarska_Igra.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Seminarska_Igra\Seminarska_Igra\obj\Debug\Seminarska_Igra.exe
+C:\Users\PC\source\repos\Seminarska_Igra\Seminarska_Igra\obj\Debug\Seminarska_Igra.pdb
+C:\Users\PC\source\repos\Seminarska_Igra\Seminarska_Igra\obj\Debug\Seminarska_Igra.Resource1.resources
