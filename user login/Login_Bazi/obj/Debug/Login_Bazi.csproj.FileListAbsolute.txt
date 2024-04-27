@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\Login_Bazi\Login_Bazi\bin\Debug\Login_Bazi.exe.config
+C:\Users\PC\source\repos\Login_Bazi\Login_Bazi\bin\Debug\Login_Bazi.exe
+C:\Users\PC\source\repos\Login_Bazi\Login_Bazi\bin\Debug\Login_Bazi.pdb
+C:\Users\PC\source\repos\Login_Bazi\Login_Bazi\obj\Debug\Login_Bazi.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Login_Bazi\Login_Bazi\obj\Debug\Login_Bazi.Form1.resources
+C:\Users\PC\source\repos\Login_Bazi\Login_Bazi\obj\Debug\Login_Bazi.Properties.Resources.resources
+C:\Users\PC\source\repos\Login_Bazi\Login_Bazi\obj\Debug\Login_Bazi.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Login_Bazi\Login_Bazi\obj\Debug\Login_Bazi.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Login_Bazi\Login_Bazi\obj\Debug\Login_Bazi.exe
+C:\Users\PC\source\repos\Login_Bazi\Login_Bazi\obj\Debug\Login_Bazi.pdb
+C:\Users\PC\source\repos\Login_Bazi\Login_Bazi\obj\Debug\Login_Bazi.MenuForma.resources
