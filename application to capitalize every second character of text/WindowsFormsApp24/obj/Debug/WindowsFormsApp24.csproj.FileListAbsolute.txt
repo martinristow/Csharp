@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\WindowsFormsApp24\WindowsFormsApp24\bin\Debug\WindowsFormsApp24.exe.config
+C:\Users\PC\source\repos\WindowsFormsApp24\WindowsFormsApp24\bin\Debug\WindowsFormsApp24.exe
+C:\Users\PC\source\repos\WindowsFormsApp24\WindowsFormsApp24\bin\Debug\WindowsFormsApp24.pdb
+C:\Users\PC\source\repos\WindowsFormsApp24\WindowsFormsApp24\obj\Debug\WindowsFormsApp24.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\WindowsFormsApp24\WindowsFormsApp24\obj\Debug\WindowsFormsApp24.Form1.resources
+C:\Users\PC\source\repos\WindowsFormsApp24\WindowsFormsApp24\obj\Debug\WindowsFormsApp24.Properties.Resources.resources
+C:\Users\PC\source\repos\WindowsFormsApp24\WindowsFormsApp24\obj\Debug\WindowsFormsApp24.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\WindowsFormsApp24\WindowsFormsApp24\obj\Debug\WindowsFormsApp24.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\WindowsFormsApp24\WindowsFormsApp24\obj\Debug\WindowsFormsApp24.exe
+C:\Users\PC\source\repos\WindowsFormsApp24\WindowsFormsApp24\obj\Debug\WindowsFormsApp24.pdb

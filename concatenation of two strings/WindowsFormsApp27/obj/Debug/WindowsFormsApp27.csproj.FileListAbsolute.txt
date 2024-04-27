@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\WindowsFormsApp27\WindowsFormsApp27\bin\Debug\WindowsFormsApp27.exe.config
+C:\Users\PC\source\repos\WindowsFormsApp27\WindowsFormsApp27\bin\Debug\WindowsFormsApp27.exe
+C:\Users\PC\source\repos\WindowsFormsApp27\WindowsFormsApp27\bin\Debug\WindowsFormsApp27.pdb
+C:\Users\PC\source\repos\WindowsFormsApp27\WindowsFormsApp27\obj\Debug\WindowsFormsApp27.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\WindowsFormsApp27\WindowsFormsApp27\obj\Debug\WindowsFormsApp27.Form1.resources
+C:\Users\PC\source\repos\WindowsFormsApp27\WindowsFormsApp27\obj\Debug\WindowsFormsApp27.Properties.Resources.resources
+C:\Users\PC\source\repos\WindowsFormsApp27\WindowsFormsApp27\obj\Debug\WindowsFormsApp27.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\WindowsFormsApp27\WindowsFormsApp27\obj\Debug\WindowsFormsApp27.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\WindowsFormsApp27\WindowsFormsApp27\obj\Debug\WindowsFormsApp27.exe
+C:\Users\PC\source\repos\WindowsFormsApp27\WindowsFormsApp27\obj\Debug\WindowsFormsApp27.pdb
